@@ -73,3 +73,7 @@ terraform destroy
 The dashboard service is reachable from the public IP on port `9002`.
 
 ![Dashboard Screenshot](./screenshots/dashboard-counting-v0.jpeg)
+
+## Architecture Diagram
+
+![Dashboard Screenshot](./screenshots/dashboard-counting-app-v0-assignment.png)
