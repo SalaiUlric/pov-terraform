@@ -167,3 +167,9 @@ The dashboard service is reachable from the public IP on port `9002`.
 ## Author
 
 Salai Ulric
+
+---
+
+## Architecture Flow
+
+![Dashboard-Counting-app-v1-assignment Acrhitecture Flow](./screenshots/dashboard-counting-app-v1-assignment.png)
